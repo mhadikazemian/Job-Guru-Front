@@ -1,1 +1,1 @@
-# Job-Guru-Front
+# Job Guru Frontend
